@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:/Users/v-stkova/source/repos/kaggle-mnist/tmp/model.ckpt"
+all_model_checkpoint_paths: "C:/Users/v-stkova/source/repos/kaggle-mnist/tmp/model.ckpt"
